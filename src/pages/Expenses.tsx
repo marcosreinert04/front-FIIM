@@ -1,3 +1,5 @@
+//PAGINA//
+
 import { useState } from "react";
 import { Sidebar } from "@/components/Sidebar";
 import { ExpenseTable } from "@/components/ExpenseTable";

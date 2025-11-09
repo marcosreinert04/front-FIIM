@@ -1,5 +1,4 @@
-// Formulário para criar ou editar despesas (CRUD). 
-// Valida valor, categoria e data e envia os dados ao salvar.
+// Função chamada ao salvar uma nova despesa
 
 
 

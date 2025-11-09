@@ -1,3 +1,6 @@
+// Interface que define os campos de uma despesa
+
+
 export interface Expense {
   id: string;
   amount: number;

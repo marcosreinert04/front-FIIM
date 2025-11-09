@@ -1,3 +1,6 @@
+//Percorre todas as despesas para gerar as linhas da tabela
+
+
 import {
   Table,
   TableBody,

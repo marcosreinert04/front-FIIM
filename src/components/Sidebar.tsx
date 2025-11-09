@@ -1,3 +1,5 @@
+//Componente de navegação lateral
+
 import { NavLink } from "./NavLink";
 import logo from "@/assets/logo.png";
 

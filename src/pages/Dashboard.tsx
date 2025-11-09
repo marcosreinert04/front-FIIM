@@ -1,3 +1,6 @@
+//Página responsável por listar todas as despesas
+
+
 import { Sidebar } from "@/components/Sidebar";
 import { StatCard } from "@/components/StatCard";
 import { Expense } from "@/types/expense";
